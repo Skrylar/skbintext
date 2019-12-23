@@ -1,2 +1,2 @@
-redo-ifchange skbintext
+redo-ifchange src/skbintext
 
