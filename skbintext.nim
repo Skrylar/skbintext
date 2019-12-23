@@ -1,3 +1,6 @@
+# Copyright 2019-2020 Joshua "Skrylar" Cearley, All Rights Reserved.
+# This module is made available under the Mozilla Public License, Version 2.
+
 ## This module is focused on the conversion of binary data to human
 ## printable (though not necessarily sensible) strings.
 
