@@ -1,6 +1,8 @@
 # Sk's Bintext
 A small module for converting between raw binary data and the weird squiggles humans prefer for some reason.
 
+This module lives on [Sourcehut](https://git.sr.ht/~skrylar/skbintext) but is mirrored to Github because some services require it.
+
 ## License
 This module is made available under the MPL-2, a well-known open source license.
 
